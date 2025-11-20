@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-g"?>
+<permissions>
+    <privapp-permissions package="org.avium.aviumdepthwallpaper">
+        <permission name="android.permission.READ_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        <permission name="android.permission.READ_MEDIA_IMAGES"/>
+        <permission name="android.permission.READ_WALLPAPER"/>
+        <permission name="com.android.permission.READ_MEDIA_WALLPAPER"/>
+    </privapp-permissions>
+</permissions>
